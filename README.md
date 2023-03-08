@@ -1,6 +1,12 @@
-This repository is for the paper, *Helicobacter pylori sero-positivity, persistent infection burden and their association with brain volumetric and white matter integrity outcomes*,  which investigates the association of *Helicobacter pylori (Hp)* with dementia pathology and other neurodegenerative diseases. 
+This repository is for the manuscript entitled, *Helicobacter pylori sero-positivity, persistent infection burden and their association with brain volumetric and white matter integrity outcomes*,  which investigates the association of *Helicobacter pylori (Hp)* with dementia pathology and other neurodegenerative diseases. 
 
-Here shows the structure of this repository. 
+Below is the file structure of the repository. 
+
+Figure 2 folder refers to all the files used to create Figure 2, including FSLEYES nii.gz files and xml labels file used for specifying tracts and ROIs. The overlays include all labels and labels used for FA and MD results for Figure 2. *.png files are the image files obtained from FSLEYES after overlaying ROIs on the MNI152 brain template.
+
+Figure 3 folder refers to all the files used for the heatmap of Figure 3, including the R script, the dataset used and the heatmap images *.jpeg. 
+
+STATA_SYNTAX includes the *.do file used for the entire analysis. A directory needs to be specified and a similar UK biobank dataset (with equivalent fields) is needed to run this analysis. 
 
 ├── FIGURE2  
 │   ├── BRAINIMAGE_ATLAS  
