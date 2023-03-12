@@ -1,4 +1,4 @@
-This repository is for the manuscript entitled, *Helicobacter pylori sero-positivity, persistent infection burden and their association with brain volumetric and white matter integrity outcomes*,  which investigates the association of *Helicobacter pylori (Hp)* with dementia pathology and other neurodegenerative diseases. 
+This repository is for the manuscript entitled, *Helicobacter pylori, persistent infection burden and structural brain imaging markers*,  which investigates the association of *Helicobacter pylori (Hp)* with dementia pathology and other neurodegenerative diseases. 
 
 Below is the file structure of the repository. 
 
