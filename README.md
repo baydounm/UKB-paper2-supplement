@@ -8,6 +8,8 @@ Figure 3 folder refers to all the files used for the heatmap of Figure 3, includ
 
 STATA_SYNTAX includes the *.do file used for the entire analysis. A directory needs to be specified and a similar UK biobank dataset (with equivalent fields) is needed to run this analysis. 
 
+OUTPUT folder is recently added and includes the main Stata Output for the analysis in smcl and txt format. 
+
 ├── FIGURE2  
 │   ├── BRAINIMAGE_ATLAS  
 │   │   ├── JHU  
