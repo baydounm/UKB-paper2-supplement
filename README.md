@@ -33,7 +33,7 @@ STATA_SYNTAX includes the *.do file used for the entire analysis. A directory ne
 ├── README.md  
 └── STATA_SYNTAX  
     └── UKB_PAPER2_HPYLORIMRI_FINAL_GITHUB.do  
-  
+└── OUTPUT  
   
 
 
