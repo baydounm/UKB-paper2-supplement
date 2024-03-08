@@ -1,5 +1,7 @@
 This repository is for the manuscript entitled, *Helicobacter pylori, persistent infection burden and structural brain imaging markers*,  which investigates the association of *Helicobacter pylori (Hp)* with dementia pathology and other neurodegenerative diseases. 
 
+The paper is accepted in Brain Communications. 
+
 Below is the file structure of the repository. 
 
 Figure 2 folder refers to all the files used to create Figure 2, including FSLEYES nii.gz files and xml labels file used for specifying tracts and ROIs. The overlays include all labels and labels used for FA and MD results for Figure 2. *.png files are the image files obtained from FSLEYES after overlaying ROIs on the MNI152 brain template.
